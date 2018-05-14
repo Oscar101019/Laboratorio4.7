@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/oscar/Descargas/AnimationEvents/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/oscar/Descargas/AnimationEvents/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/oscar/Moviles/Unidad4/Laboratorio4.7/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/oscar/Moviles/Unidad4/Laboratorio4.7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
